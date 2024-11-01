@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:info-rubbish/meichu-web.git
+[submodule "imxrt"]
+	path = imxrt
+	url = git@github.com:info-rubbish/meichu2024-imxrt.git
